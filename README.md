@@ -1,2 +1,3 @@
 # SwagLabs
-PruebaTecnica
+Ejecutar el TestSuite llamado 
+"AutomatizaciónCompleta"
